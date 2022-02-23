@@ -125,3 +125,4 @@ the video on how to use the CLI.
 Create Contentful App uses [Create React App](https://create-react-app.dev/). You can learn more in the
 [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started) and how to further
 customize your app.
+# netlify-contentful-preview
